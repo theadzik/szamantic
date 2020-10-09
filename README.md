@@ -1,1 +1,1 @@
-# Szamantic
+# szamatic
